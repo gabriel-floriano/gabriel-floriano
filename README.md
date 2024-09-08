@@ -9,11 +9,11 @@ I'm a Software Developer at ContaAzul, currently diving deep into Java and Sprin
 
 ### My Toolbelt
 
-![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=30A3DC)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=E94D5F)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=30A3DC)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=spring-boot&logoColor=E94D5F)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()
