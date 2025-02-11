@@ -25,4 +25,4 @@ I'm all about solving problems, building awesome stuff, and having fun while doi
 
 ### Streaking Through Code
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabriel-floriano&theme=ocean-gradient&hide_border=true&border_radius=5&mode=weekly&card_width=800&card_height=300&stroke=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabriel-floriano)](https://git.io/streak-stats)
